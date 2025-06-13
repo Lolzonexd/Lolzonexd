@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m studying in Politeknik Sriwijaya<br>- 📚 I'm currently learning Computer Engineering<br>- ⚡ I like Tetris</p>
+<p align="left">I'm Hanif from Palembang | Indonesia<br><br>- 🔭 I’m studying in Politeknik Sriwijaya<br>- 📚 I'm currently learning Computer Engineering<br>- ⚡ I like Tetris</p>
 
 ###
 
